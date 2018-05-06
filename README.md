@@ -1,2 +1,3 @@
-# TwoStackQueue_CC
-Using Two Stacks to Create a Queue
+# TwoStackQueue
+## Using Two Stacks to Create a Queue
+
